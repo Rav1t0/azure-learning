@@ -30,7 +30,7 @@
   Grupo de recursos, um agrupamento lógico onde pode ser agrupado todos os recursos, de forma organizada e subdividida.
 
 ## Máquinas Virtuais no Azure
-  - O que são\
+  - O que são\\
   Computadores baseados em software, criados virtualmente, que executam os aplicativos e sistema operacional em servidores físicos hospedados na nuvem.
   - Quando utilizar\
   Para testes de ambiente, simulações, rodar aplicações específicas sem a necessidade de comprar hardwares físicos.
