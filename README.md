@@ -27,17 +27,21 @@
 
 ## Resource Group
   - O que são\
-  Grupo de recursos, um agrupamento lógico onde pode ser agrupado todos os recursos, de forma organizada e subdividida.
+    Grupo de recursos, um agrupamento lógico onde pode ser agrupado todos os recursos, de forma organizada e subdividida.
 
 ## Máquinas Virtuais no Azure
-  - O que são\
+  - O que são
     
-  Computadores baseados em software, criados virtualmente, que executam os aplicativos e sistema operacional em servidores físicos hospedados na nuvem.
-  - Quando utilizar\
-  Para testes de ambiente, simulações, rodar aplicações específicas sem a necessidade de comprar hardwares físicos.
-  - Valores de imagens de VMs\
-  Durante o laboratório e prática, percebi que há diversos valores de imagens, que mudam de acordo com: região que será hospedado e executado,
-  Sistema operacional escolhido e também depende da quantidade de CPU, RAM   e disco.
+    Computadores baseados em software, criados virtualmente, que executam os aplicativos e sistema operacional em servidores físicos hospedados na nuvem.
+    
+  - Quando utilizar
+    
+    Para testes de ambiente, simulações, rodar aplicações específicas sem a necessidade de comprar hardwares físicos.
+    
+  - Valores de imagens de VMs
+    
+    Durante o laboratório e prática, percebi que há diversos valores de imagens, que mudam de acordo com: região que será hospedado e executado,
+    Sistema operacional escolhido e também depende da quantidade de CPU, RAM   e disco.
 
 ## Banco de Dados SQL no Azure
   - Passos principais para criar a instância\
