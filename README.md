@@ -68,8 +68,8 @@
     Criar recursos em regiões diferentes sem perceber (isso pode aumentar latência e custo). Ao deletar uma VM, por exemplo, ter certeza de não deixar recursos ativos sem deletar e gerando cobranças desnecessárias.
 
 ## Conclusão  
-    Este desafio ajudou a reforçar conceitos de modelos de serviço em nuvem, além de colocar em prática a criação de recursos básicos como VMs e SQL Database no Azure.
-    Também foi possível entender melhor, custos, responsabilidades e boas práticas para organizar e encerrar recursos corretamente.
+  Este desafio ajudou a reforçar conceitos de modelos de serviço em nuvem, além de colocar em prática a criação de recursos básicos como VMs e SQL Database no Azure.
+  Também foi possível entender melhor, custos, responsabilidades e boas práticas para organizar e encerrar recursos corretamente.
 
 ## Referências
   - [Documentação Oficial do Azure](https://learn.microsoft.com/azure)
