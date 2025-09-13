@@ -10,14 +10,14 @@
   A respeito dos modelos, IaaS, PaaS e SaaS, para os serviços de:
   - Hosts físicos
   - Redes físicas
-  - Datacenter físico
-  Em todos os modelos, a responsabilidade é transferida para o provedor de nuvem.
+  - Datacenter físico\
+  Em todos esses modelos, a responsabilidade é transferida para o provedor de nuvem.
 
   E para os serviços:
   - Informações e dados
   - Dispositivos
-  - Contas e identidades
-  Em todos os modelos, a responsabilidade é sempre retida pelo cliente.
+  - Contas e identidades\
+  Em todos esses modelos, a responsabilidade é sempre retida pelo cliente.
 
   Entre essas duas extremidades, segue as descrições e demais responsabilidades de cada modelo:
 
